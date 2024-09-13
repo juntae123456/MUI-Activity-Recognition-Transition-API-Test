@@ -25,3 +25,5 @@ val red = Color(0xFFFF0000)
 val green = Color(0xFF00FF00)
 
 val yellow = Color(0xFFFFFF00)
+
+val white = Color(0xFFFFFFFF)
