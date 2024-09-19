@@ -26,3 +26,4 @@ https://developer.android.com/develop/sensors-and-location/location/transitions?
 ## 사용 예시
 
 `app` 파일을 실제로 실행시켰을때의 화면.
+![Screenshot_20240919_150839_first 1](https://github.com/user-attachments/assets/95bb546d-cf81-43d7-86c7-2bf30cac222a)
