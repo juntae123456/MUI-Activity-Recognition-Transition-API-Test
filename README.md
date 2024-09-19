@@ -1,6 +1,6 @@
-# Activity Recognition Transition API Test
+# Activity Recognition Transition API Test 2
 
-Activity Recognition Transition API를 활용한 간단한 테스트 앱입니다
+Activity Recognition Transition API 를 활용한 간단한 테스트 앱입니다
 
 ## 프로젝트 설명
 
